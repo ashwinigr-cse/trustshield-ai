@@ -1,0 +1,8 @@
+{
+  "name": "Remix TRUSTSHIELD",
+  "description": "AI Digital Trust Agent for cybersecurity analysis, phishing detection, and attack chain prediction powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
